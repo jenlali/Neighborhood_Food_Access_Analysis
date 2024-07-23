@@ -110,26 +110,6 @@ print("The correct classification rate based on the training set is " + training
 print("The correct classification rate based on the validation set is " + validationPercentage)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
